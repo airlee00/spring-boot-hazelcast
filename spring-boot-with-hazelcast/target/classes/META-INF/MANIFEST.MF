@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-hazelcast
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: kichaelee
+Implementation-Vendor-Id: spring-boot-hazelcast
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-hazelcast
+Created-By: Maven Integration for Eclipse
+
