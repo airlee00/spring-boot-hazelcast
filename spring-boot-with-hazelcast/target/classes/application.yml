@@ -1,8 +1,0 @@
-server:
-  port: 8080
-  
-#spring.hazelcast.config: classpath:hazelcast-client--.xml
-
-poller:
-  delay : 6000
-  per: 10
